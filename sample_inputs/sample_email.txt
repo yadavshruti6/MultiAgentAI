@@ -1,0 +1,30 @@
+From: shrutiyadav7533@gmail.com  
+To: solutions@flowbitai.com  
+Subject: Request for Quotation – Multi-Agent AI Document Processing System  
+
+Dear Flowbit AI Team,
+
+I am Shruti Yadav, a second-year Electronics and Communication Engineering student at IIIT Kota, holding a CGPA of 8.0. I am deeply interested in the transformative power of Artificial Intelligence, especially in building intelligent systems that streamline document understanding and automation.
+
+As part of an academic and technical research initiative, I am working on a multi-agent AI system capable of ingesting structured and unstructured formats like PDF, JSON, and Emails, classifying them based on intent (Invoice, RFQ, Complaint, etc.), and routing them to specialized processing agents. This architecture aims to simulate real-world enterprise workflows involving document triage, data extraction, and CRM readiness.
+
+My technical skill set includes:
+- Python, Node.js, Express.js, HTML/CSS/JavaScript
+- MySQL, API integration, and backend logic structuring
+- Experience with AI tools/libraries like NumPy, Pandas, and scikit-learn
+- Real-world projects including SmartSchoolLocator and Interior Portfolio UI
+- Familiarity with Redis, Postman, Git, and deployment pipelines
+
+I would be grateful if you could provide:
+- A formal quotation for AI-powered document routing systems  
+- Any reference APIs or documentation for CRM and shared memory integration  
+- A short technical consultation or a sandbox trial if possible
+
+Thank you for your time and consideration. I look forward to hearing from your team.
+
+Best regards,  
+Shruti Yadav  
+Electronics & Communication Engineering, IIIT Kota  
+📧 shrutiyadav7533@gmail.com  
+📞 +91-9555579927  
+GitHub: [github.com/yadavshruti6](https://github.com/yadavshruti6)

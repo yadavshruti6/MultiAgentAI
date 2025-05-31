@@ -1,0 +1,7 @@
+{
+  "identifier": "INV-0023",
+  "source": "client@company.com",
+  "purpose": "Invoice",
+  "body": "Please process attached invoice.",
+  "status": "Pending"
+}
