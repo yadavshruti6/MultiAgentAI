@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Multi-Agent AI System
 A Modular Multi-Agent AI System to Intelligently Classify and Extract Information from Diverse Input Formats like Email, JSON, and PDF.
 
@@ -71,3 +72,7 @@ About Me
 I am Shruti Yadav, an Electronics and Communication Engineering student at IIIT Kota. I am passionate about AI and full-stack development, and this project is a reflection of my enthusiasm for building smart systems that can automate and simplify real-world tasks.
 
 Feel free to reach out to me at shrutiyadav7533@gmail.com or visit my GitHub profile yadavshruti6.
+=======
+# MultiAgentAI
+A clean, modular AI system with multiple intelligent agents for classifying and processing emails, JSON, and documents. Designed for efficient data extraction, intent recognition, and collaborative memory logging. Perfect for showcasing real-world AI and automation skills.
+>>>>>>> 32ac9ff0123d15e0dc692fbad71fb6afc4484c62
